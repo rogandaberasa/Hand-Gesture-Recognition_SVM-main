@@ -1,1 +1,1 @@
-# Hand-gesture
+# Hand_Gesture_Recognition_SVM
